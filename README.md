@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Frease03
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on anthing thay helps me learn faster
+- 🌱 I’m currently learning python,SQL,PowerBi and Excel extensively
+- 💞️ I’m looking to collaborate on anthing that helps me learn faster.
 - 📫 How to reach me nonyimadu@gmail.com
 
 <!---
