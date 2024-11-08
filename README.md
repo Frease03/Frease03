@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Frease03
-- 👀 I’m a web developer
+- 👀 I’m a Devops/Cloud Engineer
 - 💞️ I’m looking to collaborate on anthing that helps me learn faster.
 - 📫 How to reach me nonyimadu@gmail.com
 
