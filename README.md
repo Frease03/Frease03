@@ -16,6 +16,8 @@ Pinned Projects
 Here are some highlights of what I’ve worked on:
 
 Terraform Modules: Modular infrastructure-as-code setup for reusable cloud environments
+
+
 CI/CD Pipelines: Automated build, test, and deploy workflows with GitHub Actions and Jenkins
 Cost and Tag Compliance Auditing: Lambda functions to alert on missing EC2 tags and overaged instances
 Observability Stack: Helm-based deployment of Prometheus and Grafana with custom dashboards
@@ -24,6 +26,8 @@ What I'm Looking For
 Remote DevOps/Platform/SRE engineering roles
 Global teams solving interesting infrastructure challenges
 Projects focused on automation, reliability, and cloud scale
+
+
 Let's Connect
 LinkedIn
 Email: nonyimadu@gmail.com
