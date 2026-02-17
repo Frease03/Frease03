@@ -6,6 +6,8 @@ I’m a DevOps Engineer passionate about building scalable cloud infrastructure,
 
 
 About Me
+
+
 I specialize in:
 
 Automating cloud infrastructure and deployments
