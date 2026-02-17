@@ -1,74 +1,78 @@
 Hi, I'm Francis Unyimadu
-DevOps Engineer | AWS | Terraform | CI/CD | Kubernetes | Cloud Automation
+
+DevOps Engineer | AWS | Terraform | Kubernetes | CI/CD | Cloud Automation
+
+I’m a DevOps Engineer passionate about building scalable cloud infrastructure, automating everything possible, and improving developer experience through reliable, secure, and observable systems. I enjoy designing Infrastructure as Code, optimizing cloud costs, and creating robust CI/CD pipelines for modern cloud‑native applications.
+
 
 About Me
-I'm a passionate DevOps Engineer with a focus on automating cloud infrastructure, improving developer workflows, and enabling efficient, secure, and observable systems at scale. I enjoy designing and deploying Infrastructure as Code, optimizing costs, and building robust CI/CD pipelines for modern cloud-native applications.
+I specialize in:
+
+Automating cloud infrastructure and deployments
+
+Designing reusable Terraform modules and GitOps workflows
+
+Building secure, scalable Kubernetes environments
+
+Improving observability with metrics, logs, and alerts
+
+Enhancing developer productivity through automation and tooling
+
+I love solving infrastructure challenges, simplifying complex systems, and enabling teams to ship faster with confidence.
 
 
 
-🛠️ Technologies & Tools
-Cloud Platforms: AWS
+Technologies & Tools
+Cloud Platforms
+AWS (EC2, Lambda, S3, Route 53, API Gateway)
 
+Infrastructure as Code
+Terraform, CloudFormation, Ansible
 
-IaC Tools: Terraform, CloudFormation, Ansible
+CI/CD
+GitHub Actions, Jenkins, GitLab CI, ArgoCD
 
+Containers & Orchestration
+Docker, Kubernetes, Helm
 
-CI/CD: GitHub Actions, Jenkins, GitLab CI
+Monitoring & Logging
+Prometheus, Grafana, ELK Stack, Loki
 
-
-Containers & Orchestration: Docker, Kubernetes, Helm
-
-
-Monitoring & Logging: Prometheus, Grafana, ELK Stack
-
-
-Scripting: Bash, Python
-
-
-Others: API Gateway, Lambda, S3, Route 53
-
+Scripting
+Bash, Python
 
 Pinned Projects
+Terraform Modules
+Reusable, modular IaC components for provisioning scalable AWS environments.
 
+CI/CD Pipelines
+Automated build, test, and deployment workflows using GitHub Actions and Jenkins.
 
-Here are some highlights of what I’ve worked on:
+Cost & Tag Compliance Auditing
+Lambda-based automation to detect missing EC2 tags and identify overaged instances.
 
-Terraform Modules: Modular infrastructure-as-code setup for reusable cloud environments
+Observability Stack
+Helm‑based deployment of Prometheus + Grafana with custom dashboards and alerting.
 
+Backup Automation
+Bash + cron + Terraform workflow for automated Vault backups to S3.
 
-CI/CD Pipelines: Automated build, test, and deploy workflows with GitHub Actions and Jenkins
-
-
-Cost and Tag Compliance Auditing: Lambda functions to alert on missing EC2 tags and overaged instances
-
-
-Observability Stack: Helm-based deployment of Prometheus and Grafana with custom dashboards
-
-
-Backup Automation: Bash script for scheduled vault backups to S3 using cron + Terraform
 
 
 What I'm Looking For
+Remote DevOps / Platform / SRE roles
 
+Teams solving meaningful infrastructure and automation challenges
 
-Remote DevOps/Platform/SRE engineering roles
-
-
-Global teams solving interesting infrastructure challenges
-
-
-Projects focused on automation, reliability, and cloud scale
+Opportunities to build scalable, reliable cloud systems
 
 
 
+Let’s Connect
+LinkedIn: https://www.linkedin.com/in/francis-unyimadu/ 
 
-Let's Connect
-
-
-LinkedIn
 
 
 Email: nonyimadu@gmail.com
-
 
 Always building. Always learning. Always automating.
